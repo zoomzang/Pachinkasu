@@ -1,0 +1,16 @@
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\bin\Debug\net5.0\Pachinkasu.exe
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\bin\Debug\net5.0\Pachinkasu.deps.json
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\bin\Debug\net5.0\Pachinkasu.runtimeconfig.json
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\bin\Debug\net5.0\Pachinkasu.runtimeconfig.dev.json
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\bin\Debug\net5.0\Pachinkasu.dll
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\bin\Debug\net5.0\ref\Pachinkasu.dll
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\bin\Debug\net5.0\Pachinkasu.pdb
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\obj\Debug\net5.0\Pachinkasu.csproj.AssemblyReference.cache
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\obj\Debug\net5.0\Pachinkasu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\obj\Debug\net5.0\Pachinkasu.AssemblyInfoInputs.cache
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\obj\Debug\net5.0\Pachinkasu.AssemblyInfo.cs
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\obj\Debug\net5.0\Pachinkasu.csproj.CoreCompileInputs.cache
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\obj\Debug\net5.0\Pachinkasu.dll
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\obj\Debug\net5.0\ref\Pachinkasu.dll
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\obj\Debug\net5.0\Pachinkasu.pdb
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\obj\Debug\net5.0\Pachinkasu.genruntimeconfig.cache
