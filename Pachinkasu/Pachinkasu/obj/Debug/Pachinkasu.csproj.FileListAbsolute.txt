@@ -1,0 +1,10 @@
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\Pachinkasu\bin\Debug\Pachinkasu.exe.config
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\Pachinkasu\bin\Debug\Pachinkasu.exe
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\Pachinkasu\bin\Debug\Pachinkasu.pdb
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\Pachinkasu\obj\Debug\Pachinkasu.csproj.AssemblyReference.cache
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\Pachinkasu\obj\Debug\Pachinkasu.Properties.Resources.resources
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\Pachinkasu\obj\Debug\Pachinkasu.csproj.GenerateResource.cache
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\Pachinkasu\obj\Debug\Pachinkasu.csproj.CoreCompileInputs.cache
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\Pachinkasu\obj\Debug\Pachinkasu.exe
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\Pachinkasu\obj\Debug\Pachinkasu.pdb
+C:\Users\zoomz\source\repos\Pachinkasu\Pachinkasu\Pachinkasu\obj\Debug\Pachinkasu.Form1.resources
