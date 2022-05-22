@@ -19,17 +19,27 @@ namespace Pachinkasu
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            PlayPanel plaPa = new PlayPanel(5, 2, new Random());
-            plaPa.SwapPin(3, 0);
-            plaPa.SwapPin(0, 0); // saying it twice would remove it all together thrice would be once
-            plaPa.SwapPin(2, 1);
-            plaPa.SwapPin(4, 1);
-            plaPa.DropEveryLocation();
-            int[] results = plaPa.GetResult();
-            for (int i = 0; i < 5; i++)
-            {
-                MessageBox.Show(results[i] + "");
-            }
+           
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
