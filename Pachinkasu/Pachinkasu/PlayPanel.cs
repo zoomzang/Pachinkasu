@@ -37,6 +37,14 @@ namespace Pachinkasu
         {
             playArea[x, y] = !playArea[x, y];
         }
+        public void SetPin(int x, int y)
+        {
+            playArea[x, y] = true;
+        }
+        public void SetPin(int x, int y, Boolean toBe)
+        {
+            playArea[x, y] = toBe;
+        }
         // user drops one ball at a valid location, get exit location and result is updated
         // %^%^ programming for one layer is a great way to understand programming multiple recursive layers. start from the bottom and work your way up.
         public int DropBall(int loc)
@@ -78,6 +86,27 @@ namespace Pachinkasu
                 DropBall(i);
             }
         }
+        public void DropBallRanks(int[] ranks)
+        {
+            if (ranks.Length != this.len)
+                return;
+            for(int i =0; i< this.len; i++)
+            {
+                for (int j = 0; j < ranks[i]; j++)
+                {
+                    DropBall(i);
+                }
+            }
+        }
+        public int GetLength()
+        {
+            return this.len;
+        }
+        public int GetHeight()
+        {
+            return this.height;
+        }
+
         public int[] GetResult()
         {
             return this.result;
